@@ -1,4 +1,4 @@
-#Sentiment Analysis for Movie Reviews
+# Sentiment Analysis for Movie Reviews
 - Mining of 25k IMDB movie reviews to train a SVM sentiment classifier. Achieved accuracy of 80% on Kaggle test set.
 
 ## Code
