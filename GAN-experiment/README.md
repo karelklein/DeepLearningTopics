@@ -1,6 +1,6 @@
-## Blogpost
-- Full blogpost with animations is available at: https://littlepegs.github.io/
+## Blog-style post
 - An unanimated pdf is available: GANs.pdf
+- Corresponding python notebook: GANs.ipynb
 
 ## Code
 - To run the GAN, simply run on command line:
